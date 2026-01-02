@@ -1,16 +1,21 @@
-## Hi there 👋
+# Aaron Horowitz
 
-<!--
-**CPAaron/CPAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CPA building practical data systems and applied AI, and contributing to open source.
 
-Here are some ideas to get you started:
+## Now
+- Building **Vex Node**: playvexnode.com(https://playvexnode.com)
+- Contributing to **LangChain** (docs, tooling, and reliability improvements)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Applied AI / LLM apps
+- Data pipelines & analytics engineering
+- Reliability: testing, controls, and observability
+- Finance ops workflows (close, reconciliation, reporting)
+
+## Links
+- Vex Node: https://playvexnode.com
+- LinkedIn: https://linkedin.com/in/horowitzaaron
+- Projects: 
+
+## How I work
+I like small, testable changes, clear docs, and pragmatic tools that make teams faster.
