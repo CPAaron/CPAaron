@@ -13,9 +13,9 @@ CPA building practical data systems and applied AI, and contributing to open sou
 - Finance ops workflows (close, reconciliation, reporting)
 
 ## Links
-- Vex Node: https://playvexnode.com
-- LinkedIn: https://linkedin.com/in/horowitzaaron
-- Projects: 
+- [Vex Node](https://playvexnode.com)
+- [LinkedIn](https://linkedin.com/in/horowitzaaron(
+- [Projects]()
 
 ## How I work
 I like small, testable changes, clear docs, and pragmatic tools that make teams faster.
