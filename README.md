@@ -14,7 +14,7 @@ CPA building practical data systems and applied AI, and contributing to open sou
 
 ## Links
 - [Vex Node](https://playvexnode.com)
-- [LinkedIn](https://linkedin.com/in/horowitzaaron(
+- [LinkedIn](https://linkedin.com/in/horowitzaaron)
 - [Projects]()
 
 ## How I work
