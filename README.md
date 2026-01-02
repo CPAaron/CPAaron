@@ -1,21 +1,20 @@
 # Aaron Horowitz
 
-CPA building practical data systems and applied AI, and contributing to open source.
+Builder focused on practical software, clean interfaces, and reliable systems.
 
 ## Now
-- Building **Vex Node**: [playvexnode.com](https://playvexnode.com)
-- Contributing to **LangChain** (docs, tooling, and reliability improvements)
+- Shipping **Vex Node** — https://playvexnode.com
+- Contributing to **LangChain** (docs, tooling, and quality-of-life improvements)
 
-## Focus
+## I like working on
 - Applied AI / LLM apps
-- Data pipelines & analytics engineering
-- Reliability: testing, controls, and observability
-- Finance ops workflows (close, reconciliation, reporting)
+- Data + backend plumbing (pipelines, APIs, automation)
+- Reliability: testing, observability, “make it hard to break”
+- Product polish: UX details, performance, and developer experience
 
 ## Links
 - [Vex Node](https://playvexnode.com)
 - [LinkedIn](https://linkedin.com/in/horowitzaaron)
-- [Projects]()
 
-## How I work
-I like small, testable changes, clear docs, and pragmatic tools that make teams faster.
+## Notes
+I prefer small, reviewable PRs with clear intent, good tests, and simple docs.
