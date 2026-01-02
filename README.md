@@ -5,6 +5,7 @@ Builder focused on practical software, clean interfaces, and reliable systems.
 ## Now
 - Shipping **Vex Node** — https://playvexnode.com
 - Contributing to **LangChain** (docs, tooling, and quality-of-life improvements)
+- Researching market-state clustering + signal analysis
 
 ## I like working on
 - Applied AI / LLM apps
