@@ -3,7 +3,7 @@
 CPA building practical data systems and applied AI, and contributing to open source.
 
 ## Now
-- Building **Vex Node**: playvexnode.com(https://playvexnode.com)
+- Building **Vex Node**: [playvexnode.com](https://playvexnode.com)
 - Contributing to **LangChain** (docs, tooling, and reliability improvements)
 
 ## Focus
